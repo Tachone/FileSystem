@@ -1,0 +1,59 @@
+﻿生成启动时间为 2015/12/18 17:40:31。
+     1>项目“F:\c++\project\文件系统\文件系统\文件系统.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         E:\安装程序\VS2013\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
+         main.cpp
+     1>f:\c++\project\文件系统\文件系统\fileopera.h(43): warning C4018: “<”: 有符号/无符号不匹配
+     1>f:\c++\project\文件系统\文件系统\fileopera.h(48): warning C4018: “<”: 有符号/无符号不匹配
+     1>f:\c++\project\文件系统\文件系统\fileopera.h(60): warning C4018: “<”: 有符号/无符号不匹配
+     1>f:\c++\project\文件系统\文件系统\fileopera.h(77): warning C4018: “<”: 有符号/无符号不匹配
+     1>f:\c++\project\文件系统\文件系统\fileopera.h(135): warning C4018: “<”: 有符号/无符号不匹配
+     1>f:\c++\project\文件系统\文件系统\fileopera.h(145): warning C4018: “<”: 有符号/无符号不匹配
+     1>f:\c++\project\文件系统\文件系统\fileopera.h(148): warning C4018: “<”: 有符号/无符号不匹配
+     1>f:\c++\project\文件系统\文件系统\fileopera.h(160): warning C4018: “<”: 有符号/无符号不匹配
+     1>f:\c++\project\文件系统\文件系统\fileopera.h(163): warning C4018: “<”: 有符号/无符号不匹配
+     1>f:\c++\project\文件系统\文件系统\fileopera.h(176): warning C4018: “<”: 有符号/无符号不匹配
+     1>f:\c++\project\文件系统\文件系统\command.h(21): warning C4018: “<”: 有符号/无符号不匹配
+     1>f:\c++\project\文件系统\文件系统\command.h(32): warning C4018: “<”: 有符号/无符号不匹配
+     1>f:\c++\project\文件系统\文件系统\command.h(79): warning C4018: “<”: 有符号/无符号不匹配
+     1>f:\c++\project\文件系统\文件系统\command.h(89): warning C4018: “<”: 有符号/无符号不匹配
+     1>f:\c++\project\文件系统\文件系统\command.h(111): warning C4018: “<”: 有符号/无符号不匹配
+     1>f:\c++\project\文件系统\文件系统\command.h(120): warning C4018: “<”: 有符号/无符号不匹配
+     1>f:\c++\project\文件系统\文件系统\command.h(137): warning C4018: “<”: 有符号/无符号不匹配
+     1>f:\c++\project\文件系统\文件系统\command.h(146): warning C4018: “<”: 有符号/无符号不匹配
+     1>f:\c++\project\文件系统\文件系统\command.h(201): warning C4018: “<”: 有符号/无符号不匹配
+     1>f:\c++\project\文件系统\文件系统\command.h(211): warning C4018: “<”: 有符号/无符号不匹配
+     1>f:\c++\project\文件系统\文件系统\command.h(245): warning C4018: “<”: 有符号/无符号不匹配
+     1>f:\c++\project\文件系统\文件系统\command.h(256): warning C4018: “<”: 有符号/无符号不匹配
+     1>f:\c++\project\文件系统\文件系统\command.h(265): warning C4018: “<”: 有符号/无符号不匹配
+     1>f:\c++\project\文件系统\文件系统\command.h(318): warning C4018: “<”: 有符号/无符号不匹配
+     1>f:\c++\project\文件系统\文件系统\command.h(357): warning C4018: “<”: 有符号/无符号不匹配
+     1>f:\c++\project\文件系统\文件系统\command.h(396): warning C4018: “<”: 有符号/无符号不匹配
+     1>f:\c++\project\文件系统\文件系统\command.h(418): warning C4018: “<”: 有符号/无符号不匹配
+     1>f:\c++\project\文件系统\文件系统\command.h(465): warning C4018: “<”: 有符号/无符号不匹配
+     1>f:\c++\project\文件系统\文件系统\command.h(474): warning C4018: “<”: 有符号/无符号不匹配
+     1>f:\c++\project\文件系统\文件系统\command.h(511): warning C4018: “<”: 有符号/无符号不匹配
+     1>f:\c++\project\文件系统\文件系统\command.h(556): warning C4018: “<”: 有符号/无符号不匹配
+     1>f:\c++\project\文件系统\文件系统\command.h(609): warning C4018: “<”: 有符号/无符号不匹配
+     1>f:\c++\project\文件系统\文件系统\command.h(626): warning C4018: “<”: 有符号/无符号不匹配
+     1>f:\c++\project\文件系统\文件系统\command.h(636): warning C4018: “<”: 有符号/无符号不匹配
+     1>f:\c++\project\文件系统\文件系统\command.h(666): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+     1>f:\c++\project\文件系统\文件系统\command.h(673): warning C4018: “<”: 有符号/无符号不匹配
+     1>f:\c++\project\文件系统\文件系统\command.h(684): warning C4018: “<”: 有符号/无符号不匹配
+     1>f:\c++\project\文件系统\文件系统\command.h(717): warning C4018: “<”: 有符号/无符号不匹配
+     1>f:\c++\project\文件系统\文件系统\command.h(734): warning C4018: “<”: 有符号/无符号不匹配
+     1>f:\c++\project\文件系统\文件系统\command.h(744): warning C4018: “<”: 有符号/无符号不匹配
+     1>f:\c++\project\文件系统\文件系统\command.h(813): warning C4018: “<”: 有符号/无符号不匹配
+     1>f:\c++\project\文件系统\文件系统\command.h(830): warning C4018: “<”: 有符号/无符号不匹配
+     1>f:\c++\project\文件系统\文件系统\command.h(840): warning C4018: “<”: 有符号/无符号不匹配
+     1>f:\c++\project\文件系统\文件系统\command.h(871): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+     1>f:\c++\project\文件系统\文件系统\command.h(878): warning C4018: “<”: 有符号/无符号不匹配
+     1>f:\c++\project\文件系统\文件系统\command.h(889): warning C4018: “<”: 有符号/无符号不匹配
+       Link:
+         E:\安装程序\VS2013\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"F:\c++\project\文件系统\Debug\文件系统.exe" /INCREMENTAL /NOLOGO opencv_ts300.lib opencv_world300.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"F:\c++\project\文件系统\Debug\文件系统.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"F:\c++\project\文件系统\Debug\文件系统.lib" /MACHINE:X86 Debug\main.obj
+         文件系统.vcxproj -> F:\c++\project\文件系统\Debug\文件系统.exe
+     1>已完成生成项目“F:\c++\project\文件系统\文件系统\文件系统.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:01.23
