@@ -11,5 +11,6 @@
     目录搜索技术：线性搜索。
     FCB：含文件相关的全部属性。
     
-    具体可以参考我的博客，或者邮箱联系我  acm_tach@163.com
+    具体可以参考我的博客：http://blog.csdn.net/nk_test/article/details/50389128
+    或者邮箱联系我  acm_tach@163.com
   
